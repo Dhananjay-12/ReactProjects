@@ -1,0 +1,104 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "According to the BBPA, what is the most common pub name in the UK?",
+      "correct_answer": "Red Lion",
+      "options": ["Royal Oak", "White Hart", "King;s Head", "Red Lion"],
+      "incorrect_answers": ["Royal Oak", "White Hart", "King;s Head"]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "How many soccer players should be on the field at the same time?",
+      "correct_answer": "22",
+      "options": ["22", "20", "24", "26"],
+      "incorrect_answers": ["20", "24", "26"]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of these Counter-Strike maps is a bomb defuse scenario?",
+      "correct_answer": "Prodigy",
+      "options": ["747", "Havana", "Oilrig", "Prodigy"],
+      "incorrect_answers": ["747", "Havana", "Oilrig"]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Tetris is the #1 best-selling video game of all-time.",
+      "correct_answer": "False",
+      "options": ["True", "False"],
+      "incorrect_answers": ["True"]
+    },
+    {
+      "category": "Mythology",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following is not one of the Greek Fates?",
+      "correct_answer": "Narcissus",
+      "options": ["Clotho", "Atropos", "Narcissus", "Lachesis"],
+      "incorrect_answers": ["Clotho", "Atropos", "Lachesis"]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What are Sans and Papyrus named after in Undertale?",
+      "correct_answer": "Fonts",
+      "options": ["Plants", "Companies", "Fonts", "Ancient writing paper"],
+      "incorrect_answers": ["Plants", "Companies", "Ancient writing paper"]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "John Williams composed the music for Star Wars.",
+      "correct_answer": "True",
+      "options": ["True", "False"],
+      "incorrect_answers": ["False"]
+    },
+    {
+      "category": "Entertainment: Television",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "The Simpsons family is named after creator Matt Groening;s real family.",
+      "correct_answer": "True",
+      "options": ["True", "False"],
+      "incorrect_answers": ["False"]
+    },
+    {
+      "category": "Entertainment: Television",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In the cartoon ;SpongeBob SquarePants;, what did the acronym E.V.I.L stand for?",
+      "correct_answer": "Every Villain Is Lemons",
+      "options": [
+        "Every Villain Is Lemons",
+        "Every Villain Is Lemonade",
+        "Every Villain Is Limes",
+        "Each Villain Is Lemonade"
+      ],
+      "incorrect_answers": [
+        "Every Villain Is Lemonade",
+        "Every Villain Is Limes",
+        "Each Villain Is Lemonade"
+      ]
+    },
+    {
+      "category": "Entertainment: Comics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In Black Hammer, what dimension does Colonel Weird travel through?",
+      "correct_answer": "Para-Zone",
+      "options": ["Para-Zone", "Hyperspace", "Mirror Universe", "Phantom Zone"],
+      "incorrect_answers": ["Hyperspace", "Mirror Universe", "Phantom Zone"]
+    }
+  ]
+}

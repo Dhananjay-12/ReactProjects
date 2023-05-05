@@ -1,0 +1,85 @@
+@import url("https://fonts.googleapis.com/css2?family=Marmelad&family=Poppins&display=swap");
+* {
+  box-sizing: border-box;
+  font-family: "poppins";
+}
+
+.card {
+  display: flex;
+  background-color: #232c3e;
+  color: #fff;
+  width: 70%;
+  margin: auto;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+  padding: 1rem 0;
+  border-radius: 20px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.options {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+body {
+  background-color: #69b9fa;
+}
+
+button {
+  color: white;
+  background-color: rgb(3, 3, 133);
+  padding: 10px 20px;
+  border-radius: 5px;
+  border: none;
+  box-shadow: rgba(0, 200, 255, 0.258) 0px 1px 4px;
+  transition: all 0.3s ease-in-out;
+}
+
+button:hover {
+  color: rgb(3, 3, 133);
+  background-color: white;
+  cursor: pointer;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset,
+    rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+}
+
+.question {
+  font-weight: 400;
+}
+
+.category {
+  background: linear-gradient(
+    to right,
+    rgb(234, 67, 67),
+    orange,
+    violet,
+    yellow,
+    green,
+    blue,
+    indigo
+  );
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.medium {
+  color: yellow;
+  text-transform: uppercase;
+}
+
+.hard {
+  color: rgb(255, 0, 0);
+}
+
+.easy {
+  color: white;
+  text-transform: uppercase;
+}
+
+.score-holder {
+  width: 10%;
+}
